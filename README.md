@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ajoykumardas12
+- 👋 Hi, I’m Ajoy Kumar Das
 - 👀 I’m interested in Software Development, Web and Android Development.
 - 🌱 I’m currently learning Web Development.
 - 📫 How to reach me ... 
