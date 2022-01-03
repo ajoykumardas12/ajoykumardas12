@@ -1,4 +1,4 @@
-<img src="">
+
 
 <h2> Hey there! I'm Ajoy.</h2>
 
