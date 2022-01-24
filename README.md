@@ -34,6 +34,8 @@
 <a href= https://github.com/ajoykumardas12 > <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="32px" alt="Git"> </a>
 <a href= https://github.com/ajoykumardas12 > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg' alt="GitHub"> </a>
 <a href= https://github.com/ajoykumardas12 > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg' alt="Figma"> </a>
+<a href= https://github.com/ajoykumardas12 > <img width ='32px' height ='32px' src ='https://img.icons8.com/color/50/000000/notion--v1.png' alt="Notion"> </a>
+
 
 
 <hr>
