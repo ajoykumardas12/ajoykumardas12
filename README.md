@@ -8,7 +8,6 @@
  <p align="left">
 <a href="https://twitter.com/ajoykrdas_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajoykrdas_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ajoy-kumar-das-06a87b1b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajoy-kumar-das-06a87b1b8" height="30" width="40" /></a>
-<a href="https://instagram.com/akd_0147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akd_0147" height="30" width="40" /></a>
 </p>
 <hr>
 
