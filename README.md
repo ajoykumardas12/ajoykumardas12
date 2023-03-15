@@ -28,7 +28,6 @@
 <a href="https://github.com/ajoykumardas12?tab=repositories&q=&type=&language=typescript&sort=" target="_blank"> <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg' alt="TypeScript"> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img width='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg' alt="Node.js"> </a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img width='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg' alt="Express.js"> </a>
-
 <a href="https://github.com/ajoykumardas12?tab=repositories&q=&type=&language=html&sort=" target="_blank"> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg' alt="HTML5"> </a>
 <a href="https://github.com/ajoykumardas12?tab=repositories&q=&type=&language=css&sort=" target="_blank"> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg' alt="CSS3"> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img width='32px' src ='https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg' alt="TailwindCSS"> </a>
@@ -37,11 +36,9 @@
 <a href="https://github.com/ajoykumardas12?tab=repositories&q=&type=&language=java&sort=" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="32px"/> </a>
 <a href="https://github.com/ajoykumardas12?tab=repositories&q=&type=&language=c&sort=" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="32px" /> </a>
 <a href="https://github.com/ajoykumardas12?tab=repositories&q=&type=&language=cpp&sort=" target="_blank"> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg' alt="C++"> </a>
-
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img width='32px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg' alt="MongoDB"> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img width='32px' src='https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg' alt="Postman"> </a>
 <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img width='32px' src='https://www.chartjs.org/media/logo-title.svg' alt="Chart.js"> </a>
-
 <a href="https://github.com/ajoykumardas12"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="32px" alt="Git"> </a>
 <a href="https://github.com/ajoykumardas12"> <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg' alt="GitHub"> </a>
 <a href="#"> <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg' alt="Figma"> </a>
