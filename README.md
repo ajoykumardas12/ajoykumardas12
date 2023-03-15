@@ -27,7 +27,7 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img width='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg' alt="React"> </a>
 <a href="https://github.com/ajoykumardas12?tab=repositories&q=&type=&language=typescript&sort=" target="_blank"> <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg' alt="TypeScript"> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img width='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg' alt="Node.js"> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img width='32px' src ='https://icons8.com/icon/B4UIxQoMYIGD/express-js' alt="Express.js"> </a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img width='32px' src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" alt="Express.js"> </a>
 <a href="https://github.com/ajoykumardas12?tab=repositories&q=&type=&language=html&sort=" target="_blank"> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg' alt="HTML5"> </a>
 <a href="https://github.com/ajoykumardas12?tab=repositories&q=&type=&language=css&sort=" target="_blank"> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg' alt="CSS3"> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img width='32px' src ='https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg' alt="TailwindCSS"> </a>
