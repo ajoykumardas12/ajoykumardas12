@@ -15,7 +15,7 @@
 
  <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌱 I’m currently learning DSA and Web Development 
+- 🌱 I’m currently learning TypeScript and React
  
 - 👯 I’m looking to collaborate on Projects 
 
